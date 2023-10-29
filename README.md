@@ -2,8 +2,8 @@
 
 
 
-- Formado Técnico de Informática para Internet, Senac Penha.
-- Estudante de Análise e Desenvolvimento de Sistemas, Centro Universitário Senac Santo Amaro.
+- Desenvolvedor de Software
+
 
 <div align="center">
   <a href="https://github.com/Adriel21">
