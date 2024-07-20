@@ -3,6 +3,11 @@
 
 
 - Desenvolvedor de Software
+- Graduando no curso Superior em Desenvolvimento de Software Multiplataforma - Fatec Franco da Rocha Giuliano Cecchettini
+  
+- Cursando Técnico em Desenvolvimento de Sistemas - Etec Martin Luther King
+
+- Técnico em Informática para Internet -Senac
 
 
 <div align="center">
