@@ -11,8 +11,8 @@
 <div align="center">
   <a href="https://github.com/Adriel21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adriel21&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel21&layout=compact&langs_count=7&theme=gotham "/>
-  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel21&layout=compact&hide_border=false&border_color=C77DFF&title_color=9D4EDD&text_color=FFFFFF&bg_color=0d1117" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel21&layout=compact&langs_count=7&theme=gotham"/> -->
+  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel21&layout=compact&hide_border=false&border_color=C77DFF&title_color=9D4EDD&text_color=FFFFFF&bg_color=0d1117" /> -->
 
 </div>
 <div style="display: inline_block"><br>
