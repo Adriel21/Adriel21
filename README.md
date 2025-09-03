@@ -1,12 +1,19 @@
-### Olá! Eu sou o Adriel Lira
+### Olá! Eu sou o **Adriel Lira**
 
+**Desenvolvedor de Sistemas Júnior**  
+**Graduando em Ciências da Computação**  
+**Técnico em Informática para Internet**
 
+---
 
-- Desenvolvedor de Sistemas Junior
-- Graduando em Ciências da Computação
-- Técnico em Informática para Internet
+###  Sobre mim
 
-### Desenvolvedor de Sistemas, focado na construção de automações e agentes de IA para o mercado financeiro. 
+Sou desenvolvedor com foco em **automações** e **agentes de IA** voltados para o **mercado financeiro**.  
+Tenho experiência em **ambientes de alto volume**, trabalhando com **sobrecarga de processos**, **multiprocessamento**, **filas** e mensageria com **RabbitMQ**.  
+
+Curto explorar tecnologias modernas para criar soluções escaláveis, robustas e inteligentes.  
+
+---
 
 
 <div align="center">
@@ -29,6 +36,7 @@
   <img align="center" alt="Adriel-FastAPI" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
   <img align="center" alt="Adriel-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
   <img align="center" alt="Adriel-Celery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/celery.svg">
+  <img align="center" alt="Adriel-RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
 </div>
 
 
